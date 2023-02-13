@@ -7,12 +7,16 @@
  font-family: 'Sassy Frass', cursive;
  color: green;
 }
+/* Carousele reviews container starts here */
 .side-container-reviews {
- background-color: #828a25;
+  background-color: #828a25;
+  border-radius: 9px;
+  color: whitesmoke;
 }
 .side-container-reviews h4 {
-  font-size: 15px;
+  font-size: 16px;
+  color: goldenrod;
 }
 .side-container-reviews p {
-  font-size: 9px;
+  font-size: 10px;
 }
