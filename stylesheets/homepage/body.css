@@ -7,3 +7,12 @@
  font-family: 'Sassy Frass', cursive;
  color: green;
 }
+.side-container-reviews {
+ background-color: #828a25;
+}
+.side-container-reviews h4 {
+  font-size: 15px;
+}
+.side-container-reviews p {
+  font-size: 9px;
+}
