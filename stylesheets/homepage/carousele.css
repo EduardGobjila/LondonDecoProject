@@ -5,3 +5,22 @@
 .carousel {
   text-align: center;
 }
+
+#names {
+  color: yellow;
+  font-size: 9px !important;
+}
+/* Carousele reviews container starts here */
+.side-container-reviews {
+  background-color: #828a25;
+  border-radius: 9px;
+  color: whitesmoke;
+}
+.side-container-reviews h4 {
+  padding-top: 10px;
+  font-size: 16px;
+  color: gold;
+}
+.side-container-reviews p {
+  font-size: 10px;
+}
