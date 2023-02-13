@@ -1,0 +1,29 @@
+#logo {
+  width: 80px;
+  /* border-radius: 5px 20px 5px; */
+  border-radius: 60px 45px 30px 15px/15px 30px 45px 60px;
+  border: 1px solid white;
+  height: 51px
+}
+nav {
+  background-color: #383e3d !important;
+}
+.navbar-toggler {
+  background-color: white !important;
+}
+.nav-link {
+  color: whitesmoke !important;
+}
+.navbar-nav {
+  align-items: center;
+}
+/* .nav-link {
+
+} */
+.navbar .active {
+  background-color: yellowgreen !important;
+  width: 300px;
+  margin: 5px;
+  border-radius: 9px;
+  text-align: center;
+}
