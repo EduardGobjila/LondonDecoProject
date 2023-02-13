@@ -6,9 +6,12 @@
   height: 51px
 }
 nav {
+  /* justify-content: center !important; */
   background-color: #383e3d !important;
+  padding-bottom: -20px;
 }
-.navbar-toggler {
+
+ .navbar-toggler {
   background-color: white !important;
 }
 .nav-link {
@@ -17,9 +20,7 @@ nav {
 .navbar-nav {
   align-items: center;
 }
-/* .nav-link {
 
-} */
 .navbar .active {
   background-color: yellowgreen !important;
   width: 300px;

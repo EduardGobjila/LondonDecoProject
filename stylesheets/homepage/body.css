@@ -3,6 +3,20 @@
   text-align: center;
   /* border: 1px solid red; */
 }
+#telephone {
+  position: absolute;
+  right: 3%;
+  top: 20%;
+  background-color: white;
+  padding: 10px;
+  border-radius: 18px;
+  color: black;
+  font-family: 'Zeyada', cursive;
+  font-weight: bolder;
+}
+#word-color {
+  color: #828a25;
+}
 #slogan {
  font-size: 48px;
  font-family: 'Sassy Frass', cursive;
