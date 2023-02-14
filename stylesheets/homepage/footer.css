@@ -3,3 +3,13 @@
   font-size: 6px;
   text-align: center;
 }
+#footer-contact {
+  background-color: #828a25;
+  color: white;
+  padding: 5px;
+  border-radius: 20px;
+  margin: 0 20px 0 20px;
+}
+.copyright {
+  padding-bottom: 10px;
+}
