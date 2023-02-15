@@ -8,4 +8,4 @@ button.addEventListener('click', () => {
   container.style = 'display: none;'
 })
 
-console.log('checking in production')
+// console.log('checking in production')
