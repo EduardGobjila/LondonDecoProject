@@ -83,6 +83,7 @@
   background-color: #828a25;
   display: none;
   transition: transform 330ms ease-in-out;
+  font-size: 8px;
 }
 #pop-up {
   color: white;

@@ -10,11 +10,12 @@ button.addEventListener('click', () => {
 
 
 window.addEventListener('scroll', () => {
-  if (window.pageYOffset > '250') {
+  if (window.pageYOffset > '1100') {
     if (counter == 0)  {
       container.style = 'display: block;'
     } else {
       container.style = 'display: none;'
     }
   }
+  // console.log(window.pageYOffset)
 })
