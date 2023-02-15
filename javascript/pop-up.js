@@ -7,3 +7,5 @@ console.log(container)
 button.addEventListener('click', () => {
   container.style = 'display: none;'
 })
+
+console.log('checking in production')
