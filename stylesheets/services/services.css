@@ -70,25 +70,29 @@
   padding: 13px;
   border-radius: 20px;
 }
-#pop-up {
+.pop-up-container {
   position: fixed;
-  color: white;
-  padding: 8px;
   top: 70%;
   right: 0%;
   transform: translate(-10%, -50%);
-  /* border: 1px solid black; */
   border-radius: 10px;
   z-index: 10;
+  color: white;
+  padding: 8px;
   background-color: #828a25;
 }
+#pop-up {
+  color: white;
+}
 #close {
+  position: absolute;
   color: black;
+  top: -20%;
+  left: -3%;
+  bottom: 80%;
   background-color: whitesmoke;
   border-radius: 2px;
   padding: 3px;
-  font-size: 10px;
-  margin-right: 20px;
-  /* margin-right: -10px; */
-  /* margin-bottom: 20px; */
+   font-size: 10px;
+  /* margin-right: 10px;  */
 }
