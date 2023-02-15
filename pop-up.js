@@ -10,7 +10,7 @@ button.addEventListener('click', () => {
 
 
 window.addEventListener('scroll', () => {
-  if (window.pageYOffset > '210') {
+  if (window.pageYOffset > '250') {
     if (counter == 0)  {
       container.style = 'display: block;'
     } else {
