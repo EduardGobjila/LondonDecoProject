@@ -72,13 +72,14 @@
 }
 .pop-up-container {
   position: fixed;
-  top: 70%;
+  top: 50%;
   right: 0%;
   transform: translate(-10%, -50%);
   border-radius: 10px;
   z-index: 10;
   color: white;
   padding: 8px;
+  /* display: none; */
   background-color: #828a25;
 }
 #pop-up {
