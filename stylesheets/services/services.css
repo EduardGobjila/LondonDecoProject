@@ -54,3 +54,41 @@
   border-radius: 10px;
   padding: 10px;
 }
+.advice-on-how-to-paint {
+  font-size: 14px;
+  color: white;
+  background-color: rgb(30, 106, 106);
+  border-radius: 10px;
+  padding: 20px;
+}
+.advice-on-how-to-paint h5 {
+  margin-bottom: 20px;
+}
+.advice-on-how-to-paint #advice-contact {
+  background-color: #828a25;
+  color: white;
+  padding: 13px;
+  border-radius: 20px;
+}
+#pop-up {
+  position: fixed;
+  color: white;
+  padding: 8px;
+  top: 70%;
+  right: 0%;
+  transform: translate(-10%, -50%);
+  /* border: 1px solid black; */
+  border-radius: 10px;
+  z-index: 10;
+  background-color: #828a25;
+}
+#close {
+  color: black;
+  background-color: whitesmoke;
+  border-radius: 2px;
+  padding: 3px;
+  font-size: 10px;
+  margin-right: 20px;
+  /* margin-right: -10px; */
+  margin-bottom: 20px;
+}
